@@ -34,3 +34,7 @@ This [chart](https://swampsidestudio.com/wp-content/uploads/2014/07/hentry-struc
 
 ## Want to provide feedback or contribute?
 Leave a comment! Thanks for reading and using this.
+
+## Future Developments
+1. Implement schema using Google Tag Manager [Reference](https://moz.com/blog/seo-changes-using-google-tag-manager)
+While the code above _removes errors_, it doesn't _improves SEO_. I'll look into it and provide guidance here shortly. 
