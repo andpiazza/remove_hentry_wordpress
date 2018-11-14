@@ -31,6 +31,7 @@ This [chart](https://swampsidestudio.com/wp-content/uploads/2014/07/hentry-struc
 ## Credit and References
 1. [Remove WordPress hentry Class from Pages](https://swampsidestudio.com/remove-wordpress-hentry-class/) provided the basic code to implement these changes, updated to extend coverage to category and tag pages
 2. [Conditional Tags on Wordpress](https://codex.wordpress.org/Conditional_Tags) containing many examples
+3. [This is how it's NOT done](https://gist.github.com/jaredatch/1629862)
 
 ## Want to provide feedback or contribute?
 Leave a comment! Thanks for reading and using this.
